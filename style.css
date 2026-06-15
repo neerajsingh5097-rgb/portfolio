@@ -331,7 +331,7 @@ nav a{
     }
 }
 
-@media screen and (max-width:750px) {
+@media screen and (max-width:500px) {
     .project-container{
         grid-template-columns: 1fr;
     }
